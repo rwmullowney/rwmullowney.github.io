@@ -1,0 +1,20 @@
+.portfolioImage {
+    max-height: 256px;
+    margin-bottom: -90px
+}
+
+.bannerDiv {
+    height: 75px; 
+    width: 286px; 
+    background-color: #3F729B
+}
+
+.wrapper video {
+    position: relative;
+    max-height: 256px;
+}
+.wrapper div {
+    position: absolute;
+    top: 164px;
+    right: 47px
+}
