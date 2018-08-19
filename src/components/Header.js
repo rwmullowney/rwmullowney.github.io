@@ -18,7 +18,7 @@ export default class Header extends Component {
           </ul>
         </div>
 
-        <hr />
+        <hr width="50%"/>
       </div>
     );
   };
