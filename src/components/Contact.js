@@ -1,9 +1,10 @@
 import React, { Component } from 'react';
+import "./Contact.css";
 
 export default class Contact extends Component {
   render() {
     return (
-      <div className="container text-center">
+      <div className="container text-center contactIcons">
 
         <div className="row justify-content-center mt-5">
           {/* Why is the <a> tag making it so the icon and text aren't in the same row anymore?  Made it so it encompasses the entire div and it works around it for now */}
