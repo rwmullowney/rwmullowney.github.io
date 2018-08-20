@@ -13,9 +13,6 @@ export default class Home extends Component {
         
         <h3 className="font-weight-light mt-4">And, you can view my resume <a href="https://drive.google.com/file/d/1g3EIAP2-eTrexFxn0e5ZgaUfgZS3wl1x/view?usp=sharing" target="_blank">here</a>.</h3>
       </div>
-      // <div className="home">
-      //   { this.props.children }
-      // </div>
-    )
-  }
-}
+    );
+  };
+};
